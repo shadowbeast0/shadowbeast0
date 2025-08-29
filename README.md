@@ -71,7 +71,7 @@
 ## 🏆 Highlights
 - **OpenAImer 2025 Champion** — AI/ML Hackathon (Team Lead)  
 - **SourceCode 2025 (IIT KGP)** — Joint 2nd  
-- **Conference Publication** — vision/medical-imaging theme with SOTA-level metrics
+- **Conference Publication** — Paper published at 19th ICITA (2025)
 
 ---
 
