@@ -63,7 +63,8 @@
 - **Gender Classification under Adverse Conditions**  
   EfficientNet with diffusion augmentation & Focal Tversky loss for noisy images.
 
-> More builds & experiments on my GitHub pins 👇
+- **Bun Bot**
+  Bun Bot is your all-in-one Discord companion for moderation, setup, and nonstop fun—loaded with minigames and engagement tools. Pair it with a music bot and your server is complete.
 
 ---
 
