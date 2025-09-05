@@ -33,10 +33,7 @@
   <!-- ML/DL -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <br/>
-  <!-- Official Framework Logos -->
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png" alt="TensorFlow" height="40" style="margin:6px" />
-  </a>
+  <!-- Logo Row (icon-only) -->
   <a href="https://pytorch.org/" title="PyTorch">
     <img src="https://pytorch.org/assets/images/pytorch-logo.svg" alt="PyTorch" height="40" style="margin:6px" />
   </a>
