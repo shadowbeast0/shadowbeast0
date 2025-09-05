@@ -33,6 +33,20 @@
   <!-- ML/DL -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <br/>
+  <!-- Official Framework Logos -->
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png" alt="TensorFlow" height="40" style="margin:6px" />
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.svg" alt="PyTorch" height="40" style="margin:6px" />
+  </a>
+  <a href="https://www.dgl.ai/" title="DGL">
+    <img src="https://data.dgl.ai/assets/logo.svg" alt="DGL" height="40" style="margin:6px" />
+  </a>
+  <a href="https://networkx.org/" title="NetworkX">
+    <img src="https://networkx.org/documentation/stable/_static/networkx_logo.svg" alt="NetworkX" height="40" style="margin:6px" />
+  </a>
+  <br/>
   <!-- Data/Science -->
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
   <br/>
@@ -63,7 +77,7 @@
 - **Gender Classification under Adverse Conditions**  
   EfficientNet with diffusion augmentation & Focal Tversky loss for noisy images.
 
-- **Bun Bot**
+- **Bun Bot**  
   Bun Bot is your all-in-one Discord companion for moderation, setup, and nonstop fun—loaded with minigames and engagement tools. Pair it with a music bot and your server is complete.
 
 ---
