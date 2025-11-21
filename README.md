@@ -53,6 +53,10 @@
 
 ## 💼 Selected Projects
 
+### **Braking Bad — 2D Hill Climb Racing**
+![Stack](https://img.shields.io/badge/Stack-C++_|_Qt_|_Computer_Graphics-41CD52?style=flat-square)
+> A physics-based 2D racing game built with Qt; features custom raster graphics, collision detection, and dynamic vehicle mechanics.
+
 ### **Emo Care Bot — AI Mental-Health Chatbot**
 ![Stack](https://img.shields.io/badge/Stack-Python_|_Flask_|_Keras_|_NLTK-blue?style=flat-square)
 > NLTK tokenization & lemmatization; Keras intent classifier; Flask for live support.
