@@ -62,11 +62,11 @@
 > Real-time voice interface using a modern JS stack with an LLM-backed dialogue layer.
 
 ### **Signature Verification — Siamese CNN**
-![Stack](https://img.shields.io/badge/Stack-Python_|_PyTorch_|_OpenCV-orange?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python_|_PyTorch_|_CNN-orange?style=flat-square)
 > Canny-edge features + Siamese network distinguishing genuine vs forged signatures.
 
 ### **Bun Bot**
-![Stack](https://img.shields.io/badge/Stack-Node.js_|_Discord.js_|_API-green?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python_|_Discord.py_|_API-green?style=flat-square)
 > Your all-in-one Discord companion for moderation, setup, and nonstop fun—loaded with minigames and engagement tools.
 
 ---
@@ -74,7 +74,7 @@
 ## 🏆 Highlights
 - **OpenAImer 2025 Champion** — AI/ML Hackathon (Team Lead)  
 - **SourceCode 2025 (IIT KGP)** — Joint 2nd  
-- **Conference Publication** — Paper published at 19th ICITA (2025)
+- **Conference Publication** — Paper published at 19th ICITA (2025), Oslo
 
 ---
 
