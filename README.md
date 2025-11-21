@@ -21,7 +21,7 @@
 - **Neural Architectures**: CNNs, Vision Transformers, training & evaluation
 - **LLMs**: Fine-tuning, evaluation, safety, **agentic workflows** (tools, memory, planning)
 - **Efficient ML**: Data pipelines, optimization, deployment
-- **Low-Level**: Assembly (MASM), Logic Programming (Prolog), Socket Programming
+- **Low-Level**: Assembly (MASM), Logic Programming, Socket Programming
 
 ---
 
@@ -29,10 +29,10 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,asm,js,html,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,latex" />
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,matlab" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab,pandas,numpy" />
   <br/>
   
   <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,qt,flask,discord" />
@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
-  <b>Also use:</b> Prolog, PyTorch Geometric / DGL, SciPy, NetworkX, GitHub Actions, Jenkins, MASM 16
+  <b>Also use:</b> PyTorch Geometric / DGL, SciPy, NetworkX, GitHub Actions, Jenkins, MASM 16
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🏆 Highlights
 - **OpenAImer 2025 Champion** — AI/ML Hackathon (Team Lead)  
 - **SourceCode 2025 (IIT KGP)** — Joint 2nd  
-- **Conference Publication** — Paper published at 19th ICITA (2025), Oslo
+- **Conference Publication** — Paper published at 19th ICITA (2025)
 
 ---
 
