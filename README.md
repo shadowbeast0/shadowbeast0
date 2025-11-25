@@ -21,7 +21,6 @@
 - **Neural Architectures**: CNNs, Vision Transformers, training & evaluation
 - **LLMs**: Fine-tuning, evaluation, safety, **agentic workflows** (tools, memory, planning)
 - **Efficient ML**: Data pipelines, optimization, deployment
-- **Low-Level**: Assembly (MASM), Logic Programming, Socket Programming
 
 ---
 
