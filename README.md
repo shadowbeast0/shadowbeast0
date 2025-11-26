@@ -90,11 +90,9 @@
 ---
 
 ## 📫 Contact
-<p align="center"> 
-  <a href="mailto:arjeeshpalai1@gmail.com"><img src="https://img.shields.io/badge/Email-arjeeshpalai1%40gmail.com-informational?logo=gmail&logoColor=white&style=for-the-badge&color=c14438" /></a>
-  <a href="https://www.linkedin.com/in/arjeesh-palai-b729842a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/shadowbeast0"><img src="https://img.shields.io/badge/GitHub-@shadowbeast0-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/shadowbeast0/shadowbeast0/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ---
 
