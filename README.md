@@ -83,15 +83,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://streak-stats.demolab.com?user=shadowbeast0&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="160" alt="GitHub Stats" s'rc="https://github-readme-stats.vercel.app/api?username=ShadowBeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ShadowBeast0&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadowBeast0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
 
 ## 📫 Contact
-<p align="center">
+<p align="center"> 
   <a href="mailto:arjeeshpalai1@gmail.com"><img src="https://img.shields.io/badge/Email-arjeeshpalai1%40gmail.com-informational?logo=gmail&logoColor=white&style=for-the-badge&color=c14438" /></a>
   <a href="https://www.linkedin.com/in/arjeesh-palai-b729842a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/shadowbeast0"><img src="https://img.shields.io/badge/GitHub-@shadowbeast0-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
