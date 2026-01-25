@@ -82,12 +82,10 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Arjeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowBeast0&show_icons=true&theme=tokyonight)
-<div align="center">
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shadowbeast0&theme=tokyonight&hide_border=true&background=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowbeast0&theme=tokyonight&bg_color=0d1117&hide_border=true)
 
 ---
 
