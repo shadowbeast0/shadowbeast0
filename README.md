@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arjeesh+Palai+(ShadowBeast0)%3BUpcoming+Tech+Intern+%40+Wells+Fargo%3BCR+%40+JUCSE+'27+%7C+ML+Core+%40+CCJU%3BAI+%7C+ML+%7C+Agentic+Pipelines+%7C+Full-Stack%3BAlways+learning%2C+experimenting%2C+shipping" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arjeesh+Palai+(ShadowBeast0)%3BAI+%7C+ML+%7C+Agentic+Pipelines+%7C+Full-Stack%3BAlways+learning%2C+experimenting%2C+shipping" alt="typing animation" />
 </div>
 
 <p align="center">
@@ -12,9 +12,8 @@
 
 ## 🌌 System Overview
 - 🎓 **Academics:** 3rd-year B.E. in Computer Science & Engineering at **Jadavpur University** (2023–2027) | **Class Representative (CR)**
-- 💼 **Industry:** Upcoming **Technology Intern @ Wells Fargo** (Summer 2026)
 - 🧠 **Leadership:** **ML Core Team Member** @ Code Club JU (CCJU) & **Core Organiser** of **OpenAImer**, the flagship AI/ML event of SRIJAN 2026
-- ⚡ **Focus:** Neural Architectures, Large Language Models, Agentic Workflows, and building hyper-modern, scalable applications.
+- ⚡ **Focus:** GenAI, Agentic AI, Advanced RAG, Neural Architectures, Large Language Models, Agentic Workflows, and building hyper-modern, scalable applications.
 
 ---
 
@@ -52,7 +51,7 @@
 
 ### **🍔 BunChat**
 ![Stack](https://img.shields.io/badge/Stack-Node.js_|_Python_|_SQLite_|_AI_Moderation-43853D?style=flat-square)
-> A real-time WebSocket chat platform blending classic messaging with a hybrid AI moderation engine (toxic-bert). Supports DMs, group chats, a built-in social feed, and an AI therapist de-escalation system.
+> A real-time WebSocket chat platform blending classic messaging with a hybrid AI moderation engine. Supports DMs, group chats, a built-in social feed, and an AI therapist de-escalation system and many more features.
 
 ### **🏎️ Braking Bad — 2D Hill Climb Racing**
 ![Stack](https://img.shields.io/badge/Stack-C++_|_Qt_|_Computer_Graphics-41CD52?style=flat-square)
@@ -72,13 +71,13 @@
 
 ### **🤖 Bun Bot**
 ![Stack](https://img.shields.io/badge/Stack-Python_|_Discord.py_|_API-7289da?style=flat-square)
-> An all-in-one Discord companion for moderation, setup, and engagement—loaded with minigames.
+> An all-in-one Discord companion for moderation, setup, server management and needs, and engagement—loaded with minigames.
 
 ---
 
 ## 🏆 Telemetry & Milestones
-- 🥇 **Champion (Team Lead)** — Lexicognition AI, flagship AI event of Kshitij 2026 conducted by IIT Kharagpur and sponsored/tested by Microsoft judges.
-- 🥇 **Champion (Team Lead)** — OpenAImer 2025 AI/ML Hackathon.
+- 🥇 **Champion (Team Lead)** — Lexicognition AI, flagship AI event of KSHITIJ 2026 conducted by IIT Kharagpur and sponsored/tested by Microsoft judges.
+- 🥇 **Champion (Team Lead)** — OpenAImer 2025, flagship AI/ML Hackathon of SRIJAN 2025 conducted by Jadavpur University.
 - 🏅 **Special Mention** — National Cyber Security Awareness using AI Ideathon with *EdgeGuard-FLX*.
 - 📜 **Published Researcher** — Published in Springer Nature, 19th ICITA (2025), Oslo (Proposed LGLD-Net).
 
