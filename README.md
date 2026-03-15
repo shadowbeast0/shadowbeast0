@@ -1,101 +1,107 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arjeesh+Palai+(ShadowBeast0)%3BStudent+%40+Jadavpur+University%3BAI+%7C+ML+%7C+DL+%7C+Neural+Networks%3BLLMs+%26+Agentic+AI%3BAlways+learning%2C+experimenting%2C+shipping" alt="typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shadowbeast0"><img src="https://komarev.com/ghpvc/?username=shadowbeast0&style=flat&label=Profile+Views&color=0e75b6" /></a>
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0A66C2" />
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%26%20LLMs-6f42c1" />
-</p>
-
----
-
-## 🎓 About Me
-- 3rd-year **B.E. in Computer Science & Engineering** at **Jadavpur University (2023–2027)**
-- Interested in **AI/ML/DL**, **Neural Networks**, **LLMs**, and **Agentic AI**
-- Hands-on with modern Python ML stacks; I like polishing details until they *click* ✨
-
----
-
-## 🧠 Interests
-- **Neural Architectures**: CNNs, Vision Transformers, training & evaluation
-- **LLMs**: Fine-tuning, evaluation, safety, **agentic workflows** (tools, memory, planning)
-- **Efficient ML**: Data pipelines, optimization, deployment
-
----
-
-## 🛠️ Skills & Tools
-
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,latex" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab,pandas,numpy" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,qt,flask,discord" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arjeesh+Palai+(ShadowBeast0)%3BUpcoming+Tech+Intern+%40+Wells+Fargo%3BCR+%40+JUCSE+'27+%7C+ML+Core+%40+CCJU%3BAI+%7C+ML+%7C+Agentic+Pipelines+%7C+Full-Stack%3BAlways+learning%2C+experimenting%2C+shipping" alt="typing animation" />
 </div>
 
 <p align="center">
-  <b>Also use:</b> PyTorch Geometric / DGL, SciPy, NetworkX, GitHub Actions, Jenkins, MASM 16
+  <a href="https://github.com/shadowbeast0"><img src="https://komarev.com/ghpvc/?username=shadowbeast0&style=flat-square&label=Profile+Views&color=00ffff" /></a>
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_Scalable_Systems-6f42c1?style=flat-square" />
+</p>
+
+---
+
+## 🌌 System Overview
+- 🎓 **Academics:** 3rd-year B.E. in Computer Science & Engineering at **Jadavpur University** (2023–2027) | **Class Representative (CR)**
+- 💼 **Industry:** Upcoming **Technology Intern @ Wells Fargo** (Summer 2026)
+- 🧠 **Leadership:** **ML Core Team Member** @ Code Club JU (CCJU) & **Core Organiser** of **OpenAImer**, the flagship AI/ML event of SRIJAN 2026
+- ⚡ **Focus:** Neural Architectures, Large Language Models, Agentic Workflows, and building hyper-modern, scalable applications.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,latex" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab,pandas,numpy" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,spring,git,docker,linux,fastapi" />
+</div>
+
+<p align="center">
+  <i>Additional loadout:</i> PyTorch Geometric / DGL, Three.js, WebSockets, Chroma DB, LlamaParse
 </p>
 
 ---
 
 ## 🔬 Research & Experience
 - **Undergraduate Research (Image Analysis & AI)** — Proposed **LGLD-Net** (dual-stream global-local), achieving strong results and a conference publication.
-- **Research Intern (ISI Kolkata)** — Implemented GCN/Graph Transformer/NAGPhormer baselines; customized **SGFormer** & **DualFormer** with accuracy improvements.
+- **Research Intern (ISI Kolkata)** — Implemented GCN/Graph Transformer/NAGPhormer baselines; customized **SGFormer** & **DualFormer** with significant accuracy improvements.
 
 ---
 
-## 💼 Selected Projects
+## 💻 Featured Builds
 
-### **Braking Bad — 2D Hill Climb Racing**
+### **🎓 Lexicognition AI**
+![Stack](https://img.shields.io/badge/Stack-FastAPI_|_Next.js_|_RAG_|_Chroma-00A4EF?style=flat-square)
+> A production-style AI viva-voce platform that transforms a PDF research paper into an adaptive oral examination flow with evidence-grounded grading. Features LLM-driven question generation, strict critique-based grading, and real-time streaming ingestion (SSE). 
+
+### **✈️ BookMyFlight**
+![Stack](https://img.shields.io/badge/Stack-Next.js_16_|_Spring_Boot_|_Three.js_|_Tailwind_4-000000?style=flat-square)
+> A hyper-modern, cyber-aesthetic flight booking platform. Features a live deals engine, an interactive 3D hero globe, an integrated digital wallet, and a robust OTP+JWT protected Spring Boot backend.
+
+### **🍔 BunChat**
+![Stack](https://img.shields.io/badge/Stack-Node.js_|_Python_|_SQLite_|_AI_Moderation-43853D?style=flat-square)
+> A real-time WebSocket chat platform blending classic messaging with a hybrid AI moderation engine (toxic-bert). Supports DMs, group chats, a built-in social feed, and an AI therapist de-escalation system.
+
+### **🏎️ Braking Bad — 2D Hill Climb Racing**
 ![Stack](https://img.shields.io/badge/Stack-C++_|_Qt_|_Computer_Graphics-41CD52?style=flat-square)
 > A physics-based 2D racing game built with Qt; features custom raster graphics, collision detection, and dynamic vehicle mechanics.
 
-### **Emo Care Bot — AI Mental-Health Chatbot**
+### **🧠 Emo Care Bot — AI Mental-Health Chatbot**
 ![Stack](https://img.shields.io/badge/Stack-Python_|_Flask_|_Keras_|_NLTK-blue?style=flat-square)
 > NLTK tokenization & lemmatization; Keras intent classifier; Flask for live support.
 
-### **AI Voice Assistant — Gemini LLM**
+### **🎙️ AI Voice Assistant — Gemini LLM**
 ![Stack](https://img.shields.io/badge/Stack-JavaScript_|_Gemini_API_|_Web_Speech-yellow?style=flat-square)
 > Real-time voice interface using a modern JS stack with an LLM-backed dialogue layer.
 
-### **Signature Verification — Siamese CNN**
+### **🖋️ Signature Verification — Siamese CNN**
 ![Stack](https://img.shields.io/badge/Stack-Python_|_PyTorch_|_CNN-orange?style=flat-square)
 > Canny-edge features + Siamese network distinguishing genuine vs forged signatures.
 
-### **Bun Bot**
-![Stack](https://img.shields.io/badge/Stack-Python_|_Discord.py_|_API-green?style=flat-square)
-> Your all-in-one Discord companion for moderation, setup, and nonstop fun—loaded with minigames and engagement tools.
+### **🤖 Bun Bot**
+![Stack](https://img.shields.io/badge/Stack-Python_|_Discord.py_|_API-7289da?style=flat-square)
+> An all-in-one Discord companion for moderation, setup, and engagement—loaded with minigames.
 
 ---
 
-## 🏆 Highlights
-- **OpenAImer 2025 Champion** — AI/ML Hackathon (Team Lead)  
-- **SourceCode 2025 (IIT KGP)** — Joint 2nd  
-- **Conference Publication** — Paper published at 19th ICITA (2025), Oslo
+## 🏆 Telemetry & Milestones
+- 🥇 **Champion (Team Lead)** — Lexicognition AI, flagship AI event of Kshitij 2026 conducted by IIT Kharagpur and sponsored/tested by Microsoft judges.
+- 🥇 **Champion (Team Lead)** — OpenAImer 2025 AI/ML Hackathon.
+- 🏅 **Special Mention** — National Cyber Security Awareness using AI Ideathon with *EdgeGuard-FLX*.
+- 📜 **Published Researcher** — Published in Springer Nature, 19th ICITA (2025), Oslo (Proposed LGLD-Net).
 
 ---
 
-## 📊 GitHub Stats
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowbeast0&theme=tokyonight&bg_color=0d1117&hide_border=true)
+## 📊 Uplink Data
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowbeast0&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00FFFF" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
-
-## 📫 Contact
+## 📫 Establish Connection
 <p align="center"> 
   <a href="mailto:arjeeshpalai1@gmail.com"><img src="https://img.shields.io/badge/Email-arjeeshpalai1%40gmail.com-informational?logo=gmail&logoColor=white&style=for-the-badge&color=c14438" /></a>
   <a href="https://www.linkedin.com/in/arjeesh-palai-b729842a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/shadowbeast0"><img src="https://img.shields.io/badge/GitHub-@shadowbeast0-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
----
-
-<p align="center"><i>Thanks for visiting! If you’re building something in AI/ML/LLMs or Agentic AI, let’s chat.</i></p>
+<p align="center"><i>Thanks for visiting! If you’re building something in AI/ML, Agentic AI, or modern web systems, let’s chat.</i></p>
