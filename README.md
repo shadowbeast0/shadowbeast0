@@ -86,7 +86,7 @@
 ## 📊 Uplink Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&hide_rank=true" alt="Overall Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF" alt="Top Langs" />
 </div>
 
