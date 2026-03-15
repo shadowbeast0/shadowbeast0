@@ -22,11 +22,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,latex" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,matlab,pandas,numpy,fastapi" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,spring,git,docker,linux,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,spring,git,docker,linux" />
 </div>
-
 <p align="center">
   <i>Additional loadout:</i> PyTorch Geometric / DGL, Three.js, WebSockets, Chroma DB, LlamaParse
 </p>
