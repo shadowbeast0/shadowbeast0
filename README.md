@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arjeesh+Palai+(ShadowBeast0)%3BAI+%7C+ML+%7C+Agentic+Pipelines+%7C+Full-Stack%3BAlways+learning%2C+experimenting%2C+shipping" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=%3E+System.init(Agentic_AI)%3B;%3E+Deploying+Neural+Architectures...;%3E+Architecting+Hyper-Modern+Systems." alt="typing animation" />
 </div>
 
 <p align="center">
