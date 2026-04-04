@@ -33,9 +33,10 @@
 ---
 
 ## 🔬 Research & Experience
-- **Undergraduate Research (Image Analysis & AI)** — Proposed **LGLD-Net** (dual-stream global-local), achieving strong results and a conference publication.
+- **Undergraduate Researcher (CMATER Lab, JU)** — Advised by Prof. Ram Sarkar.
+  - **SAGED-Net (IEEE IJCNN/WCCI 2026):** Engineered a lightweight nuclei segmentation framework featuring learnable Adaptive Gating and Tri-Domain Fidelity loss, outperforming benchmarks across TNBC, CPM, and PanNuke datasets.
+  - **LGLD-Net (Springer Nature, ICITA Oslo 2025):** Proposed a dual-stream global-local neural architecture for image analysis, achieving strong results and a core publication.
 - **Research Intern (ISI Kolkata)** — Implemented GCN/Graph Transformer/NAGPhormer baselines; customized **SGFormer** & **DualFormer** with significant accuracy improvements.
-
 ---
 
 ## 💻 Featured Builds
