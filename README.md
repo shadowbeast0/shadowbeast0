@@ -87,12 +87,12 @@
 ## 📊 Uplink Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&hide_rank=true" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowbeast0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&hide_rank=true&cache_seconds=86400" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowbeast0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&cache_seconds=86400" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowbeast0&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00FFFF" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowbeast0&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00FFFF&cache_seconds=86400" alt="Activity Graph" width="100%" />
 </div>
 
 ---
