@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>Hi, I am Arjeesh Palai</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Undergrad;Specializing+in+Agentic+AI+%26+Deep+Learning;Building+Hyper-Modern+Scalable+Systems" alt="typing animation" />
+<div align="left">
+  <h1>👋 Hi, I am Arjeesh Palai</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FFFF&center=false&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Undergrad;Specializing+in+Agentic+AI+%26+Deep+Learning;Building+Hyper-Modern+Scalable+Systems" alt="typing animation" />
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/shadowbeast0"><img src="https://komarev.com/ghpvc/?username=shadowbeast0&style=flat-square&label=Profile+Views&color=00ffff" /></a>
   <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_Scalable_Systems-6f42c1?style=flat-square" />
