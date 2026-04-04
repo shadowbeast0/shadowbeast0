@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=%3E+System.init(Agentic_AI)%3B;%3E+Deploying+Neural+Architectures...;%3E+Architecting+Hyper-Modern+Systems." alt="typing animation" />
+  <h1>Hi, I am Arjeesh Palai</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Undergrad;Specializing+in+Agentic+AI+%26+Deep+Learning;Building+Hyper-Modern+Scalable+Systems" alt="typing animation" />
 </div>
 
 <p align="center">
