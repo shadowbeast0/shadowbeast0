@@ -81,7 +81,7 @@
 - 🥇 **Champion (Team Lead)** — Lexicognition AI, flagship AI event of KSHITIJ 2026 conducted by IIT Kharagpur and sponsored/tested by Microsoft judges.
 - 🥇 **Champion (Team Lead)** — OpenAImer 2025, flagship AI/ML Hackathon of SRIJAN 2025 conducted by Jadavpur University.
 - 🏅 **Special Mention** — National Cyber Security Awareness using AI Ideathon with *EdgeGuard-FLX*.
-- 📜 **Published Researcher** — Published in Springer Nature, 19th ICITA (2025), Oslo (Proposed LGLD-Net).
+- 📜 **Published Researcher** — Published in IEEE Xplore Digital Library, IJCNN(WCCI), 2026 (Proposed SAGED-Net) || Springer Nature, 19th ICITA (2025), Oslo (Proposed LGLD-Net).
 
 ---
 
