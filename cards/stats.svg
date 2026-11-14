@@ -31,25 +31,25 @@
   <text x="24" y="78" font-size="15" fill="#FFD60A" filter="url(#glow)">★</text>
   <text class="l" x="46" y="78">Total stars</text>
   <rect x="236" y="68" width="150" height="10" rx="5" fill="#ffffff" opacity=".07"/>
-  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.30s" x="236" y="68" width="8.8" height="10" rx="5" fill="#FFD60A" filter="url(#glow)"/>
+  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.30s" x="236" y="68" width="8.9" height="10" rx="5" fill="#FFD60A" filter="url(#glow)"/>
   <text class="v" x="470" y="79" text-anchor="end">15</text>
 </g><g class="fade" style="animation-delay:0.12s">
   <text x="24" y="104" font-size="15" fill="#FF2E88" filter="url(#glow)">⟳</text>
   <text class="l" x="46" y="104">Commits (past year)</text>
   <rect x="236" y="94" width="150" height="10" rx="5" fill="#ffffff" opacity=".07"/>
   <rect class="grow" style="transform-origin:236px 0;animation-delay:0.42s" x="236" y="94" width="150.0" height="10" rx="5" fill="#FF2E88" filter="url(#glow)"/>
-  <text class="v" x="470" y="105" text-anchor="end">256</text>
+  <text class="v" x="470" y="105" text-anchor="end">253</text>
 </g><g class="fade" style="animation-delay:0.24s">
   <text x="24" y="130" font-size="15" fill="#22F0FF" filter="url(#glow)">⇄</text>
   <text class="l" x="46" y="130">Pull requests</text>
   <rect x="236" y="120" width="150" height="10" rx="5" fill="#ffffff" opacity=".07"/>
-  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.54s" x="236" y="120" width="7.0" height="10" rx="5" fill="#22F0FF" filter="url(#glow)"/>
+  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.54s" x="236" y="120" width="7.1" height="10" rx="5" fill="#22F0FF" filter="url(#glow)"/>
   <text class="v" x="470" y="131" text-anchor="end">12</text>
 </g><g class="fade" style="animation-delay:0.36s">
   <text x="24" y="156" font-size="15" fill="#8B5CF6" filter="url(#glow)">▣</text>
   <text class="l" x="46" y="156">Public repos</text>
   <rect x="236" y="146" width="150" height="10" rx="5" fill="#ffffff" opacity=".07"/>
-  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.66s" x="236" y="146" width="19.3" height="10" rx="5" fill="#8B5CF6" filter="url(#glow)"/>
+  <rect class="grow" style="transform-origin:236px 0;animation-delay:0.66s" x="236" y="146" width="19.6" height="10" rx="5" fill="#8B5CF6" filter="url(#glow)"/>
   <text class="v" x="470" y="157" text-anchor="end">33</text>
 </g><g class="fade" style="animation-delay:0.48s">
   <text x="24" y="182" font-size="15" fill="#7ED957" filter="url(#glow)">◉</text>

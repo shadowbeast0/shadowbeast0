@@ -28,7 +28,7 @@
 <text class="t" x="24" y="38">STREAK</text>
 <rect x="24" y="46" width="64" height="3" rx="1.5" fill="#22F0FF" filter="url(#glow)"/>
 <g class="fade" style="animation-delay:0.00s"><circle cx="92" cy="122" r="40" fill="none" stroke="#22F0FF" stroke-opacity=".18" stroke-width="7"/><circle class="pulse" cx="92" cy="122" r="40" fill="none" stroke="#22F0FF" stroke-width="3.5" stroke-dasharray="190 62" transform="rotate(-90 92 122)" filter="url(#glow)"/>
-  <text x="92" y="131" text-anchor="middle" font-weight="900" font-style="italic" font-size="26" fill="#fff" font-family="'Segoe UI Black','Arial Black','Segoe UI',Ubuntu,'Helvetica Neue',sans-serif">275</text>
+  <text x="92" y="131" text-anchor="middle" font-weight="900" font-style="italic" font-size="26" fill="#fff" font-family="'Segoe UI Black','Arial Black','Segoe UI',Ubuntu,'Helvetica Neue',sans-serif">276</text>
   <text class="l" x="92" y="186" text-anchor="middle" fill="#22F0FF">Contributions</text>
   <text class="s" x="92" y="203" text-anchor="middle">since Nov 2025</text>
 </g><g class="fade" style="animation-delay:0.15s"><circle cx="248" cy="122" r="40" fill="none" stroke="#FF2E88" stroke-opacity=".18" stroke-width="7"/><circle class="pulse" cx="248" cy="122" r="40" fill="none" stroke="#FF2E88" stroke-width="3.5" stroke-dasharray="190 62" transform="rotate(-90 248 122)" filter="url(#glow)"/><text x="248" y="76" text-anchor="middle" font-size="18" class="pulse">🔥</text>

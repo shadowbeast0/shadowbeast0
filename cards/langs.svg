@@ -27,22 +27,22 @@
 <rect x="2" y="2" width="491" height="211" rx="14" fill="none" stroke="url(#edge)" stroke-width="2.5" filter="url(#glow)"/>
 <text class="t" x="24" y="38">LANGUAGE LOADOUT</text>
 <rect x="24" y="46" width="64" height="3" rx="1.5" fill="#8B5CF6" filter="url(#glow)"/>
-<g filter="url(#glow)"><clipPath id="bar"><rect x="24" y="64" width="447" height="12" rx="6"/></clipPath><g clip-path="url(#bar)"><rect class="grow" style="transform-origin:24px 0" x="24.0" y="64" width="137.6" height="12" fill="#DA5B0B"/><rect class="grow" style="transform-origin:24px 0" x="161.6" y="64" width="77.9" height="12" fill="#f34b7d"/><rect class="grow" style="transform-origin:24px 0" x="239.6" y="64" width="63.7" height="12" fill="#3572A5"/><rect class="grow" style="transform-origin:24px 0" x="303.3" y="64" width="50.8" height="12" fill="#3178c6"/><rect class="grow" style="transform-origin:24px 0" x="354.1" y="64" width="48.0" height="12" fill="#f1e05a"/><rect class="grow" style="transform-origin:24px 0" x="402.1" y="64" width="25.5" height="12" fill="#b07219"/></g></g><g class="fade" style="animation-delay:0.40s">
+<g filter="url(#glow)"><clipPath id="bar"><rect x="24" y="64" width="447" height="12" rx="6"/></clipPath><g clip-path="url(#bar)"><rect class="grow" style="transform-origin:24px 0" x="24.0" y="64" width="136.7" height="12" fill="#DA5B0B"/><rect class="grow" style="transform-origin:24px 0" x="160.7" y="64" width="77.4" height="12" fill="#f34b7d"/><rect class="grow" style="transform-origin:24px 0" x="238.2" y="64" width="66.2" height="12" fill="#3572A5"/><rect class="grow" style="transform-origin:24px 0" x="304.4" y="64" width="50.5" height="12" fill="#3178c6"/><rect class="grow" style="transform-origin:24px 0" x="354.9" y="64" width="47.7" height="12" fill="#f1e05a"/><rect class="grow" style="transform-origin:24px 0" x="402.5" y="64" width="25.4" height="12" fill="#b07219"/></g></g><g class="fade" style="animation-delay:0.40s">
   <circle cx="31" cy="104" r="6" fill="#DA5B0B" filter="url(#glow)"/>
   <text class="l" x="46" y="108" fill="#E9E4FF">Jupyter Notebook</text>
-  <text class="s" x="234" y="108" text-anchor="end">30.8%</text>
+  <text class="s" x="234" y="108" text-anchor="end">30.6%</text>
 </g><g class="fade" style="animation-delay:0.50s">
   <circle cx="261" cy="104" r="6" fill="#f34b7d" filter="url(#glow)"/>
   <text class="l" x="276" y="108" fill="#E9E4FF">C++</text>
-  <text class="s" x="464" y="108" text-anchor="end">17.4%</text>
+  <text class="s" x="464" y="108" text-anchor="end">17.3%</text>
 </g><g class="fade" style="animation-delay:0.60s">
   <circle cx="31" cy="138" r="6" fill="#3572A5" filter="url(#glow)"/>
   <text class="l" x="46" y="142" fill="#E9E4FF">Python</text>
-  <text class="s" x="234" y="142" text-anchor="end">14.3%</text>
+  <text class="s" x="234" y="142" text-anchor="end">14.8%</text>
 </g><g class="fade" style="animation-delay:0.70s">
   <circle cx="261" cy="138" r="6" fill="#3178c6" filter="url(#glow)"/>
   <text class="l" x="276" y="142" fill="#E9E4FF">TypeScript</text>
-  <text class="s" x="464" y="142" text-anchor="end">11.4%</text>
+  <text class="s" x="464" y="142" text-anchor="end">11.3%</text>
 </g><g class="fade" style="animation-delay:0.80s">
   <circle cx="31" cy="172" r="6" fill="#f1e05a" filter="url(#glow)"/>
   <text class="l" x="46" y="176" fill="#E9E4FF">JavaScript</text>
