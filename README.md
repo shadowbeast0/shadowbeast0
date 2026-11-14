@@ -1,5 +1,8 @@
 <div align="left">
   <h1>👋 Hi, I am Arjeesh Palai</h1>
+  <a href="https://shadowbeast0.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF2E88&center=false&vCenter=true&width=700&lines=%F0%9F%8C%90+Enter+my+portfolio+%E2%86%92;shadowbeast0.github.io+%E2%9C%A6+a+manga+you+can+play" alt="Enter my portfolio: shadowbeast0.github.io" />
+  </a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FFFF&center=false&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Undergrad;Specializing+in+Agentic+AI+%26+Deep+Learning;Building+Hyper-Modern+Scalable+Systems" alt="typing animation" />
 </div>
 
