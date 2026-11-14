@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="LANGUAGE LOADOUT">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140A26"/><stop offset="1" stop-color="#07040F"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22F0FF"/></linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" opacity=".05"/></pattern>
+</defs>
+<style>
+  .t{font:900 italic 19px 'Segoe UI Black','Arial Black','Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;letter-spacing:1.5px;fill:#fff}
+  .k{font:900 64px 'Yu Gothic','Noto Sans JP','Hiragino Sans',sans-serif;fill:none;stroke:#8B5CF6;stroke-opacity:.28;stroke-width:1.4}
+  .l{font:600 12.5px 'Cascadia Code','Fira Code',Consolas,'SF Mono',monospace;fill:#B8AEDC}
+  .v{font:900 italic 18px 'Segoe UI Black','Arial Black','Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#fff}
+  .s{font:600 11px 'Cascadia Code','Fira Code',Consolas,'SF Mono',monospace;fill:#7E74A6}
+  .grow{animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+  .fade{animation:fade .8s ease-out both}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  .scan{animation:scan 4s linear infinite}
+  @keyframes grow{from{transform:scaleX(0)}}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}}
+  @keyframes pulse{50%{opacity:.45}}
+  @keyframes scan{from{transform:translateX(-495px)}to{transform:translateX(495px)}}
+</style>
+<rect x="2" y="2" width="491" height="211" rx="14" fill="url(#bg)"/>
+<rect x="2" y="2" width="491" height="211" rx="14" fill="url(#dots)"/>
+<rect class="scan" x="0" y="2" width="70" height="211" fill="#fff" opacity=".035"/>
+<text class="k" x="417" y="70">術</text>
+<rect x="2" y="2" width="491" height="211" rx="14" fill="none" stroke="url(#edge)" stroke-width="2.5" filter="url(#glow)"/>
+<text class="t" x="24" y="38">LANGUAGE LOADOUT</text>
+<rect x="24" y="46" width="64" height="3" rx="1.5" fill="#8B5CF6" filter="url(#glow)"/>
+<g filter="url(#glow)"><clipPath id="bar"><rect x="24" y="64" width="447" height="12" rx="6"/></clipPath><g clip-path="url(#bar)"><rect class="grow" style="transform-origin:24px 0" x="24.0" y="64" width="137.6" height="12" fill="#DA5B0B"/><rect class="grow" style="transform-origin:24px 0" x="161.6" y="64" width="77.9" height="12" fill="#f34b7d"/><rect class="grow" style="transform-origin:24px 0" x="239.6" y="64" width="63.7" height="12" fill="#3572A5"/><rect class="grow" style="transform-origin:24px 0" x="303.3" y="64" width="50.8" height="12" fill="#3178c6"/><rect class="grow" style="transform-origin:24px 0" x="354.1" y="64" width="48.0" height="12" fill="#f1e05a"/><rect class="grow" style="transform-origin:24px 0" x="402.1" y="64" width="25.5" height="12" fill="#b07219"/></g></g><g class="fade" style="animation-delay:0.40s">
+  <circle cx="31" cy="104" r="6" fill="#DA5B0B" filter="url(#glow)"/>
+  <text class="l" x="46" y="108" fill="#E9E4FF">Jupyter Notebook</text>
+  <text class="s" x="234" y="108" text-anchor="end">30.8%</text>
+</g><g class="fade" style="animation-delay:0.50s">
+  <circle cx="261" cy="104" r="6" fill="#f34b7d" filter="url(#glow)"/>
+  <text class="l" x="276" y="108" fill="#E9E4FF">C++</text>
+  <text class="s" x="464" y="108" text-anchor="end">17.4%</text>
+</g><g class="fade" style="animation-delay:0.60s">
+  <circle cx="31" cy="138" r="6" fill="#3572A5" filter="url(#glow)"/>
+  <text class="l" x="46" y="142" fill="#E9E4FF">Python</text>
+  <text class="s" x="234" y="142" text-anchor="end">14.3%</text>
+</g><g class="fade" style="animation-delay:0.70s">
+  <circle cx="261" cy="138" r="6" fill="#3178c6" filter="url(#glow)"/>
+  <text class="l" x="276" y="142" fill="#E9E4FF">TypeScript</text>
+  <text class="s" x="464" y="142" text-anchor="end">11.4%</text>
+</g><g class="fade" style="animation-delay:0.80s">
+  <circle cx="31" cy="172" r="6" fill="#f1e05a" filter="url(#glow)"/>
+  <text class="l" x="46" y="176" fill="#E9E4FF">JavaScript</text>
+  <text class="s" x="234" y="176" text-anchor="end">10.7%</text>
+</g><g class="fade" style="animation-delay:0.90s">
+  <circle cx="261" cy="172" r="6" fill="#b07219" filter="url(#glow)"/>
+  <text class="l" x="276" y="176" fill="#E9E4FF">Java</text>
+  <text class="s" x="464" y="176" text-anchor="end">5.7%</text>
+</g>
+</svg>
