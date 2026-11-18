@@ -40,8 +40,8 @@
 - **Technology Program Intern (Wells Fargo)** — June to August 2026, Commercial and Corporate Investment Banking Technology.
   - Architected, built and orchestrated an AI agent for the Commercial and Corporate Investment Banking line of business.
 - **Undergraduate Researcher (CMATER Lab, JU)** — Advised by Prof. Ram Sarkar.
-  - **SAGED-Net (IEEE IJCNN/WCCI 2026):** Engineered a lightweight nuclei segmentation framework featuring learnable Adaptive Gating and Tri-Domain Fidelity loss, outperforming benchmarks across TNBC, CPM, and PanNuke datasets.
-  - **LGLD-Net (Springer Nature, ICITA Oslo 2025):** Proposed a dual-stream global-local neural architecture for image analysis, achieving strong results and a core publication.
+  - **SAGED-Net (IEEE IJCNN/WCCI 2026):** Engineered a lightweight nuclei segmentation framework featuring learnable Adaptive Gating and Tri-Domain Fidelity loss, outperforming benchmarks across TNBC, CPM, and PanNuke datasets. [DOI: 10.1109/IJCNN69854.2026.11729171](https://doi.org/10.1109/ijcnn69854.2026.11729171)
+  - **LGLD-Net (Springer Nature, ICITA Oslo 2025):** Proposed a dual-stream global-local neural architecture for image analysis, achieving strong results and a core publication. [DOI: 10.1007/978-3-032-21174-3_28](https://doi.org/10.1007/978-3-032-21174-3_28)
 - **Research Intern (Indian Statistical Institute)** — Advised by Prof. Swagatam Das.
   - Implemented GCN/Graph Transformer/NAGPhormer baselines; customized **SGFormer** & **DualFormer** with significant accuracy improvements.
 
