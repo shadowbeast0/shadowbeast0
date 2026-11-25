@@ -27,29 +27,29 @@
 <rect x="2" y="2" width="491" height="211" rx="14" fill="none" stroke="url(#edge)" stroke-width="2.5" filter="url(#glow)"/>
 <text class="t" x="24" y="38">LANGUAGE LOADOUT</text>
 <rect x="24" y="46" width="64" height="3" rx="1.5" fill="#8B5CF6" filter="url(#glow)"/>
-<g filter="url(#glow)"><clipPath id="bar"><rect x="24" y="64" width="447" height="12" rx="6"/></clipPath><g clip-path="url(#bar)"><rect class="grow" style="transform-origin:24px 0" x="24.0" y="64" width="134.0" height="12" fill="#DA5B0B"/><rect class="grow" style="transform-origin:24px 0" x="158.0" y="64" width="75.9" height="12" fill="#f34b7d"/><rect class="grow" style="transform-origin:24px 0" x="233.8" y="64" width="67.0" height="12" fill="#3572A5"/><rect class="grow" style="transform-origin:24px 0" x="300.8" y="64" width="52.0" height="12" fill="#3178c6"/><rect class="grow" style="transform-origin:24px 0" x="352.8" y="64" width="51.1" height="12" fill="#f1e05a"/><rect class="grow" style="transform-origin:24px 0" x="403.9" y="64" width="24.8" height="12" fill="#b07219"/></g></g><g class="fade" style="animation-delay:0.40s">
+<g filter="url(#glow)"><clipPath id="bar"><rect x="24" y="64" width="447" height="12" rx="6"/></clipPath><g clip-path="url(#bar)"><rect class="grow" style="transform-origin:24px 0" x="24.0" y="64" width="130.5" height="12" fill="#DA5B0B"/><rect class="grow" style="transform-origin:24px 0" x="154.5" y="64" width="73.9" height="12" fill="#f34b7d"/><rect class="grow" style="transform-origin:24px 0" x="228.4" y="64" width="67.9" height="12" fill="#3572A5"/><rect class="grow" style="transform-origin:24px 0" x="296.3" y="64" width="55.4" height="12" fill="#f1e05a"/><rect class="grow" style="transform-origin:24px 0" x="351.7" y="64" width="53.8" height="12" fill="#3178c6"/><rect class="grow" style="transform-origin:24px 0" x="405.4" y="64" width="24.3" height="12" fill="#b07219"/></g></g><g class="fade" style="animation-delay:0.40s">
   <circle cx="31" cy="104" r="6" fill="#DA5B0B" filter="url(#glow)"/>
   <text class="l" x="46" y="108" fill="#E9E4FF">Jupyter Notebook</text>
-  <text class="s" x="234" y="108" text-anchor="end">30.0%</text>
+  <text class="s" x="234" y="108" text-anchor="end">29.2%</text>
 </g><g class="fade" style="animation-delay:0.50s">
   <circle cx="261" cy="104" r="6" fill="#f34b7d" filter="url(#glow)"/>
   <text class="l" x="276" y="108" fill="#E9E4FF">C++</text>
-  <text class="s" x="464" y="108" text-anchor="end">17.0%</text>
+  <text class="s" x="464" y="108" text-anchor="end">16.5%</text>
 </g><g class="fade" style="animation-delay:0.60s">
   <circle cx="31" cy="138" r="6" fill="#3572A5" filter="url(#glow)"/>
   <text class="l" x="46" y="142" fill="#E9E4FF">Python</text>
-  <text class="s" x="234" y="142" text-anchor="end">15.0%</text>
+  <text class="s" x="234" y="142" text-anchor="end">15.2%</text>
 </g><g class="fade" style="animation-delay:0.70s">
-  <circle cx="261" cy="138" r="6" fill="#3178c6" filter="url(#glow)"/>
-  <text class="l" x="276" y="142" fill="#E9E4FF">TypeScript</text>
-  <text class="s" x="464" y="142" text-anchor="end">11.6%</text>
+  <circle cx="261" cy="138" r="6" fill="#f1e05a" filter="url(#glow)"/>
+  <text class="l" x="276" y="142" fill="#E9E4FF">JavaScript</text>
+  <text class="s" x="464" y="142" text-anchor="end">12.4%</text>
 </g><g class="fade" style="animation-delay:0.80s">
-  <circle cx="31" cy="172" r="6" fill="#f1e05a" filter="url(#glow)"/>
-  <text class="l" x="46" y="176" fill="#E9E4FF">JavaScript</text>
-  <text class="s" x="234" y="176" text-anchor="end">11.4%</text>
+  <circle cx="31" cy="172" r="6" fill="#3178c6" filter="url(#glow)"/>
+  <text class="l" x="46" y="176" fill="#E9E4FF">TypeScript</text>
+  <text class="s" x="234" y="176" text-anchor="end">12.0%</text>
 </g><g class="fade" style="animation-delay:0.90s">
   <circle cx="261" cy="172" r="6" fill="#b07219" filter="url(#glow)"/>
   <text class="l" x="276" y="176" fill="#E9E4FF">Java</text>
-  <text class="s" x="464" y="176" text-anchor="end">5.6%</text>
+  <text class="s" x="464" y="176" text-anchor="end">5.4%</text>
 </g>
 </svg>
